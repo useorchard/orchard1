@@ -1,0 +1,7 @@
+To send the logged output file to server orchard2,
+
+cat file_name.x | sshpass -p lobsterlobstercorn ssh orchard2@10.0.1.120 "cat > ~/Orchard/file_name.x"
+
+Done!
+
+- Nick Didkowsky & Andrew McNeill, Orchard, August 26 2015

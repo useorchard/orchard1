@@ -1,0 +1,4 @@
+First, the Arduino will be located at /dev/ttyUSB0.
+Use screen to open a session with a name:
+
+	screen -L -S output /dev/ttyUSB0

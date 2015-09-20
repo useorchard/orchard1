@@ -1,0 +1,8 @@
+On Pi: enter "tightvncserver" to intitialize there
+
+On Mac: make sure screen sharing is on in system preferences, then enter:
+open vnc://orchard1@10.0.1.22:5901
+
+Done!
+
+- Andrew McNeill, Orchard, August 24 2015
